@@ -1,1 +1,2 @@
-re
+Congratulations! You’ve learned three different ways to backtrack in Git. You can use these skills to undo changes made to your Git project.
+Let’s take a moment to re
